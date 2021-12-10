@@ -60036,7 +60036,7 @@ t6(){var s=0,r=A.a6(t.TN),q,p=this,o,n,m,l
 var $async$t6=A.a1(function(a,b){if(a===1)return A.a3(b,r)
 while(true)switch(s){case 0:n=t.bD
 s=3
-return A.af(A.avd(A.pr("http://login-ac.futuretecware.com/login.php"),A.aC(["username",p.d.a.a,"password",p.e.a.a],n,n)),$async$t6)
+return A.af(A.avd(A.pr("https://futuretecware.com/login-mysql/login-ac/login.php"),A.aC(["username",p.d.a.a,"password",p.e.a.a],n,n)),$async$t6)
 case 3:m=b
 l=B.au.HK(0,A.aus(A.asx(m.e).c.a.h(0,"charset")).cZ(0,m.x),null)
 n=J.ar(l)
